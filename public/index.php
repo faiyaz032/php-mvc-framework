@@ -1,2 +1,5 @@
 <?php
-    require_once '../app/bootstrap.php';
+
+include_once '../vendor/autoload.php';
+
+   
