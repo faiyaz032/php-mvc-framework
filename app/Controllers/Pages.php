@@ -4,7 +4,9 @@ class Pages
 {
     public function __construct()
     {
-        echo "Pages Loaded";
-    }
-    
+       echo "pages loaded";
+    }  
+
+    public function index(){}
+
 }
