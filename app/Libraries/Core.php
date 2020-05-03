@@ -1,7 +1,6 @@
 <?php
 
 namespace App\Libraries;
-
 error_reporting(E_ALL & ~E_NOTICE);
 
 /**
